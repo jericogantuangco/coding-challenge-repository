@@ -19,6 +19,7 @@ Refer to this (Python installation)[https://docs.python.org/3/using/windows.html
 
 
 ## Directory Structure
+```
 | README.md
 |
 |--problem_set_1
@@ -33,7 +34,7 @@ Refer to this (Python installation)[https://docs.python.org/3/using/windows.html
 |    |    longest_increasing_subsequence.go
 |    |    longest_increasing_subsequence.py
 |    |    README.md
-
+```
 
 ## Usage
 To run the Python solution sets, simply type in 'python <file>' in the problem set directory you want to try to run.
