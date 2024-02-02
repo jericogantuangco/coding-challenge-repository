@@ -8,8 +8,9 @@ The code used to implement the solutions for the coding problem are Python and G
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
-- [Usage](#usage)
 - [Directory Structure](#directory-structure)
+- [Usage](#usage)
+
 
 
 ## Prerequisites
