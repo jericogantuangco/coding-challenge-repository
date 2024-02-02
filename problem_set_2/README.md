@@ -1,4 +1,4 @@
-# Problem Set 1: Valid Parentheses
+# Problem Set 2: Valid Parentheses
 
 ## Problem Description
 Given a string containing just the characters `'(',')','{','}','[',']'`, determine if the input string is valid. An input string is valid if:
