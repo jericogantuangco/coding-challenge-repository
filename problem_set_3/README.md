@@ -1,4 +1,4 @@
-# Problem Set 1: Longest Increasing Subsequence
+# Problem Set 2: Longest Increasing Subsequence
 
 ## Problem Description
 Given an unsorted array of integers, find the length of the longest increasing subsequence.
