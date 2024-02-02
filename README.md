@@ -16,7 +16,7 @@ The code used to implement the solutions for the coding problem are Python and G
 ## Prerequisites
 Python 3.12.1 was used to implement the Python solution. For Golang, version go1.21.6 windows/amd64 was used.
 Both versions need to be installed to be able to run the solution for the problem sets.
-Refer to this (Python installation)[https://docs.python.org/3/using/windows.html] and this (GoLang installation)[https://go.dev/doc/install] on how to install it in your system.
+Refer to this [Python installation](https://docs.python.org/3/using/windows.html) and this [GoLang installation](https://go.dev/doc/install) on how to install it in your system.
 
 
 ## Directory Structure
