@@ -38,7 +38,7 @@ Refer to this [Python installation](https://docs.python.org/3/using/windows.html
 ```
 
 ## Usage
-To run the Python solution sets, simply type in 'python <file>' in the problem set directory you want to try to run.
+To run the Python solution sets, simply type in 'python `<file>`' in the problem set directory you want to try to run.
 For example, if you want to run the Palindrome Pairs problem solution, go to the problem_set_1 directory and execute the command as seen below.
 ```
 $python palindrome_pairs.py
